@@ -3,8 +3,8 @@
 ### Subject: OOPJ (CS336B)
 **Assessment:** Student Academic Management REST API  
 **Developer:** Shubham Sharma  
-**Roll Number:** 25003249  
-**Branch:** CSE(AI & ML)  
+**Roll Number:** 202501100300249
+**Branch:** CSE(AI)  
 **Email:** shubham.25003249@kiet.edu  
 **Repository:** https://github.com/ssharma66385-ai/student-management-system  
 
